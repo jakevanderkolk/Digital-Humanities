@@ -1,0 +1,73 @@
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Der Tod des Vergil</title>
+                <author>Hermann Broch</author>
+                <respStmt>
+                    <resp>Encoded by</resp>
+                    <name xml:id="JvdK">Jacob A. van der Kolk</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Battle Creek, MI</pubPlace>
+                <date>2017-11-24</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Broch, Hermann, 1886-1951</author>
+                        <title type="main">Der Tod des Vergil</title>
+                        <edition></edition>
+                        <imprint>
+                            <pubPlace>Frankfurt am Main</pubPlace>
+                            <publisher>Suhrkamp Verlag</publisher>
+                            <date></date>
+                        </imprint>
+                        <extent></extent>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>The aftermatter, including the author's commentaries, are not included</p>
+            </samplingDecl>
+            <editorialDecl>
+                <normalization method="silent">
+                    <p>Original punctuation conventions from source edition have been retained as much as possible</p>
+                </normalization>
+                <interpretation>
+                    <p>Italics are recorded without interpretation</p>
+                </interpretation>
+            </editorialDecl>
+            <refsDecl>
+            </refsDecl>
+            <classDecl>
+                <taxonomy xml:id="lcsh">
+                    <bibl>Library of Congress Subject Headings</bibl>
+                </taxonomy>
+                <taxonomy xml:id="lc">
+                    <bibl>Library of Congress Classification</bibl>
+                </taxonomy>
+            </classDescl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="de-AT-1901">Austrian German using 1901 orthography</language>
+                <language ident="la">Latin</language>
+                <language ident="it">Italian</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#lcsh">
+                    <list>
+                        <item></item>
+                    </list>
+                </keywords>
+                <classCode scheme="#lc"></classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+    </text>
+</TEI>
